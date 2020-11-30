@@ -12,7 +12,7 @@ In this repository there are simulations of:
 - Electric field and electric potential due to a ring of charge
 - Magnetic field of a physical dipole
 - Isosurfaces of electric equipotential due to a uniformly charged sphere *
-*- Isosurfaces of electric equipotential due to a charged sphere in the presence of a separate charged particle *
+* - Isosurfaces of electric equipotential due to a charged sphere in the presence of a separate charged particle *
 - Magnetic field of a short and "long" solenoid (which is modeled as a helix using parametric equations) *
 - Magnetic field of a helmholtz coil *
 
