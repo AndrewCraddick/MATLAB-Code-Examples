@@ -5,7 +5,7 @@ All simulations are performed using Colomb's Law or Biot Savart's Law. This caus
 
 For this reason, the code is frequently longer than would typically be needed to simulate relatively simple situations such as a perfect ring of charge where assumptions based on symmetry drastically simplify and reduce the complexity of the approach needed to accurately simulate the distribution.
 
-Nevertheless, I was very satisfied with my results and was forced to think creatively to mathematically represent the ditributions and impliment those representations in code which was efficient and accurate without a long execution time.
+Nevertheless, I was very satisfied with my results and was forced to think creatively to mathematically represent the ditributions and impliment those representations in efficient executable code.
 
 In this repository there are simulations of:
 
