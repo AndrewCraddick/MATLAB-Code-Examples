@@ -17,3 +17,5 @@ In this repository there are simulations of:
 - Magnetic field of a helmholtz coil *
 
  (more advanced examples are denoted with an "*")
+ 
+ Some examples contain more explanatory comments than others.
